@@ -1,5 +1,5 @@
 {
-  "name": "only",
+  "name": "@dyhpoon/only",
   "version": "0.0.1",
   "description": "return whitelisted properties of an object",
   "scripts": {
