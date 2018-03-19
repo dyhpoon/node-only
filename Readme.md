@@ -25,7 +25,7 @@ var user = only(obj, 'name last email phone');
 
 You can also use array form:
 ```js
-var user = only(obj, ['name', 'last', 'email']);
+var user = only(obj, ['name', 'last', 'email', 'phone']);
 ```
 
 yields:
